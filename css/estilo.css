@@ -1,0 +1,8 @@
+body{
+    margin: auto; background: red;
+}
+picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
